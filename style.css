@@ -1,0 +1,24 @@
+/*score keeper*/
+
+
+body{
+	background-color: #474747;
+}
+
+.container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+
+.container h1, h3{
+color: #fff;
+text-align: center;
+}
+
+
+
+
+.winner{
+	color: green;
+}
+
